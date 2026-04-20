@@ -59,4 +59,4 @@ Links:
 
 GitHub (https://github.com/maximtsyrulnyk/)
 
-##[🔗 Demo_LINK](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+**[Live Demo](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
