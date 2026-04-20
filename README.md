@@ -56,7 +56,15 @@ Education: Donetsk National University (Master's in CS).
 Core Values: Writing clean, documented, and reusable code.
 
 Links:
+<div align="center">
 
-GitHub (https://github.com/maximtsyrulnyk/)
+  [![Live Demo](https://img.shields.io/badge/demo-live_preview-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+  [![GitHub](https://img.shields.io/badge/github-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximtsyrulnyk/)
 
-**[Live Demo](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+</div>
+
+---
+
+### 🔗 Quick Links
+* **Live Preview:** [View Project](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+* **Developer Profile:** [Maxim Tsyrulnyk](https://github.com/maximtsyrulnyk/)
