@@ -58,8 +58,7 @@ Core Values: Writing clean, documented, and reusable code.
 Links:
 <div align="center">
 
-  [![Live Demo](https://img.shields.io/badge/demo-live_preview-blue?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
-  [![GitHub](https://img.shields.io/badge/github-profile-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/maximtsyrulnyk/)
+  [DEMO LINK](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 
 </div>
 
