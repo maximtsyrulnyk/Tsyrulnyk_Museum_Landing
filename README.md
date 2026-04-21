@@ -24,6 +24,8 @@ Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/
 
 Clone the repository:
 
+**[Live Demo](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
+
 git clone [Tsyrulnyk_Museum_Landing](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 Navigate to the project directory:
 
