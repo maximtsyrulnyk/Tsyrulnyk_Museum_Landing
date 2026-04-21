@@ -36,7 +36,7 @@ npm install
 Run the development server:
 
 npm run start
-The project will be available at http://localhost:3000.
+The project will be available at [localhost:3000](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
 
 Build for production:
 
