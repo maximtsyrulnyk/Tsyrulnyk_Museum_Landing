@@ -20,7 +20,7 @@ Form Validation: Built-in validation for user contact information.
 💻 How to Get Started
 To run this project locally, follow these steps:
 
-Open Your Design in [Figma] (https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
 
 Clone the repository:
 
