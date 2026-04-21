@@ -1,57 +1,63 @@
-🎨 Museum Landing Page
+# Louvre Museum Landing Page
 
-A modern responsive landing page for a museum website built as a Frontend project.
+An adaptive and interactive landing page for the Louvre Museum, developed as part of the Frontend course. The project includes high-fidelity styling, interactive sliders, a custom video player, and a ticket booking system.
 
-🔗 Live Demo
+## 🔗 Links
 
-👉 https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/
+- **Live Demo:** [View Project](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+- **Design (Figma):** [Figma Layout](https://www.figma.com/file/museum-landing-design)
 
-📸 Preview
+## 🛠 Technologies Used
 
+- **HTML5 & SCSS:** Semantic layout and modular styling using **BEM methodology**.
+- **JavaScript (ES6+):** Custom sliders, video control, and form validation.
+- **Git:** Version control with feature-branching workflow.
 
+## 🚀 Key Features
 
+* **Responsive Design:** Fully optimized for Mobile, Tablet, and Desktop resolutions.
+* **Interactive Hero Section:** Smooth transitions and engaging visuals.
+* **Virtual Tour:** Integrated 360° views of museum halls.
+* **Video Player:** Custom-built UI for the video gallery with play/pause and volume controls.
+* **Booking System:** Functional modal window for ticket selection and price calculation.
+* **Form Validation:** Built-in validation for user contact information.
 
-🚀 Technologies Used
-HTML5
-SCSS / CSS3
-JavaScript (ES6+)
-BEM methodology
-Responsive Design (Flexbox, Grid)
-✨ Features
-Fully responsive layout (mobile / tablet / desktop)
-Clean and modern UI
-Interactive elements (buttons, navigation)
-Semantic HTML structure
-Optimized styles with SCSS
-🛠️ How to run locally
+## 💻 How to Get Started
 
-Clone the repository:
+To run this project locally, follow these steps:
 
-git clone https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git
+1.  **Clone the repository:**
+    ```bash
+    git clone [https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
+    ```
 
-Go to project folder:
+2.  **Navigate to the project directory:**
+    ```bash
+    cd Tsyrulnyk_Museum_Landing
+    ```
 
-cd Tsyrulnyk_Museum_Landing
+3.  **Install dependencies:**
+    ```bash
+    npm install
+    ```
 
-Install dependencies:
+4.  **Run the development server:**
+    ```bash
+    npm run start
+    ```
+    *The project will be available at `http://localhost:3000`.*
 
-npm install
+5.  **Build for production:**
+    ```bash
+    npm run build
+    ```
 
-Run project:
+## 📂 Project Structure
 
-npm start
-📂 Project Structure
-src/
-  ├── images/
-  ├── styles/
-  ├── scripts/
-index.html
-👨‍💻 Author
-
-Maxim Tsyrulnyk
-
-GitHub: https://github.com/maximtsyrulnyk
-LinkedIn: (add here)
-📌 Notes
-
-This project was created as part of a Frontend development learning program
+```text
+├── src/
+│   ├── index.html        # Main HTML file
+│   ├── scss/             # Modular SCSS files (BEM)
+│   ├── js/               # JavaScript logic modules
+│   └── assets/           # Images, icons, and videos
+└── package.json          # Dependencies and scripts
