@@ -5,7 +5,6 @@ An adaptive and interactive landing page for the Louvre Museum, developed as par
 ## 🔗 Links
 
 - [View Project](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
-- [Figma Layout](https://www.figma.com/file/museum-landing-design)
 
 ## 🛠 Technologies Used
 
