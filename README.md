@@ -1,66 +1,57 @@
-# Museum Landing Page
+🎨 Museum Landing Page
 
-A modern, responsive landing page for a museum, showcasing exhibits, ticketing services, and historical insights. This project demonstrates advanced front-end development skills, clean code architecture, and professional build tool integration.
+A modern responsive landing page for a museum website built as a Frontend project.
 
-## 🚀 Overview
+🔗 Live Demo
 
-The **Museum Landing Page** is a pixel-perfect implementation designed to provide a seamless user experience across all devices. The project focuses on high performance, accessibility, and maintainability using industry-standard methodologies.
+👉 https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/
 
-### Key Features:
-- **Responsive Web Design (RWD):** Fully optimized for mobile, tablet, and desktop views.
-- **Interactive Elements:** Smooth navigation, sliders, and dynamic UI components powered by JavaScript.
-- **Optimized Performance:** Image optimization and code minification for fast loading speeds.
-- **Modern Typography & Layout:** Clean aesthetics focused on readability and art-centric presentation.
+📸 Preview
 
-## 🛠 Tech Stack & Tools
 
-- **Markup:** HTML5 (Semantic tags for SEO and accessibility).
-- **Styles:** SCSS (Sass) following the **BEM (Block Element Modifier)** methodology.
-- **Scripting:** Vanilla JavaScript (ES6+).
-- **Version Control:** Git & GitHub.
 
-## 📂 Project Structure
 
-```text
-├── dist/               # Compiled and optimized production files
-├── src/                # Source files
-│   ├── scss/           # Stylesheets (Sass)
-│   ├── js/             # Script files
-│   ├── img/            # Raw images and assets
-│   └── index.html      # Main template
-└── package.json        # Project dependencies and scripts
-⚙️ Installation & Setup
-Open Your Terminal in VSCode
+🚀 Technologies Used
+HTML5
+SCSS / CSS3
+JavaScript (ES6+)
+BEM methodology
+Responsive Design (Flexbox, Grid)
+✨ Features
+Fully responsive layout (mobile / tablet / desktop)
+Clean and modern UI
+Interactive elements (buttons, navigation)
+Semantic HTML structure
+Optimized styles with SCSS
+🛠️ How to run locally
 
 Clone the repository:
 
-git clone [https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
-Navigate to the project directory:
+git clone https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git
+
+Go to project folder:
 
 cd Tsyrulnyk_Museum_Landing
+
 Install dependencies:
 
 npm install
-Run the development server:
-npm start (or if it't not work add -- -l)
 
-👨‍💻 About the Developer
-Maxim Tsyrulnyk Junior Full-Stack Developer | Master's Student in Computer Science
+Run project:
 
-I am a passionate developer focused on building scalable web applications. My expertise lies in creating robust front-end interfaces and efficient back-end systems.
+npm start
+📂 Project Structure
+src/
+  ├── images/
+  ├── styles/
+  ├── scripts/
+index.html
+👨‍💻 Author
 
-Specialization: Full-stack Web Development (React, Node.js, Microservices).
+Maxim Tsyrulnyk
 
-Education: Donetsk National University (Master's in CS).
+GitHub: https://github.com/maximtsyrulnyk
+LinkedIn: (add here)
+📌 Notes
 
-Core Values: Writing clean, documented, and reusable code.
-
-Links:
-[DEMO LINK](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
-
-
----
-
-### 🔗 Quick Links
-* **Live Preview:** [View Project](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
-* **Developer Profile:** [Maxim Tsyrulnyk](https://github.com/maximtsyrulnyk/)
+This project was created as part of a Frontend development learning program
