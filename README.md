@@ -56,11 +56,8 @@ Education: Donetsk National University (Master's in CS).
 Core Values: Writing clean, documented, and reusable code.
 
 Links:
-<div align="center">
+[DEMO LINK](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 
-  [DEMO LINK](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
-
-</div>
 
 ---
 
