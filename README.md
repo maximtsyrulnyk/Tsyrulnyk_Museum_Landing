@@ -1,11 +1,13 @@
 🔗 Links
 View Project
 🛠 Technologies Used
-[HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/)
-[SCSS](https://sass-lang.com/documentation/) Semantic layout and modular styling using
-[BEM](https://getbem.com/) methodology.
-[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+): Custom sliders, video control, and form validation.
-[Git](https://git-scm.com/docs): Version control with feature-branching workflow.
+<ul>
+<li>[HTML5](https://www.w3.org/TR/2011/WD-html5-20110405/) </li>
+<li>[SCSS](https://sass-lang.com/documentation/) Semantic layout and modular styling using</li>
+<li>[BEM](https://getbem.com/) methodology.</li>
+<li>[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+): Custom sliders, video control, and form validation.</li>
+<li>[Git](https://git-scm.com/docs): Version control with feature-branching workflow.</li>
+</ul>
 
 🚀 Key Features
 <ul>
