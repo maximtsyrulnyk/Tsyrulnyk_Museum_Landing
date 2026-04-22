@@ -1,34 +1,32 @@
 🔗 Links
 View Project
 🛠 Technologies Used
-<ol>
-<li>[HTML](https://www.w3.org/TR/2011/WD-html5-20110405/)</li>
-<li>[SCSS](https://sass-lang.com/documentation/) Semantic layout and modular styling using</li>
-<li>[BEM](https://getbem.com/) methodology.</li>
-<li>[JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+): Custom sliders, video control, and form validation.</li>
-<li>[Git](https://git-scm.com/docs): Version control with feature-branching workflow.</li>
-</ol>
+
+1. [HTML](https://www.w3.org/TR/2011/WD-html5-20110405/)
+2. [SCSS](https://sass-lang.com/documentation/) Semantic layout and modular styling using.
+3. [BEM](https://getbem.com/) methodology.
+4. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+): Custom sliders, video control, and form validation.
+5. [Git](https://git-scm.com/docs): Version control with feature-branching workflow.
 
 🚀 Key Features
-<ul>
-<li>Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions.</li>
-<li>Interactive Hero Section: Smooth transitions and engaging visuals.</li>
-<li>Virtual Tour: Integrated 360° views of museum halls.</li>
-<li>Video Player: Custom-built UI for the video gallery with play/pause and volume controls.</li>
-<li>Booking System: Functional modal window for ticket selection and price calculation.</li>
-<li>Form Validation: Built-in validation for user contact information.</li>
-</ul>
+
+1. Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions.
+2. Interactive Hero Section: Smooth transitions and engaging visuals.
+3. Virtual Tour: Integrated 360° views of museum halls.
+4. Video Player: Custom-built UI for the video gallery with play/pause and volume controls.
+5. Booking System: Functional modal window for ticket selection and price calculation.
+6. Form Validation: Built-in validation for user contact information.
 
 💻 How to Get Started
 To run this project locally, follow these steps:
 
-Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+1. Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
 
-Clone the repository:
+2. Clone the repository:
 
 [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 
-Build for production:
+3. Build for production:
 
 npm run build
 📂 Project Structure
