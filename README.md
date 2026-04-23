@@ -76,7 +76,8 @@ Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/
 <hr>
 <p>To set up the project locally, follow these steps:</p>
 <ol>
-<li> Clone the repository: git clone [Tsyrulnyk_Museum_Landing](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/) </li>
+<li> Clone the repository:</li>
+git clone [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 <li> Navigate to the project directory: cd Tsyrulnyk_Museum_Landing </li>
 <li> Install dependencies: npm install</li>
 <li> Run the development server: npm start </li>
