@@ -1,15 +1,15 @@
-<h1>🏛️ My Museum Landing Page</h1>
+# 🏛️ My Museum Landing Page
 <hr>
 
 <p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
-<p>
+
 🔗 Quick LinksLive Demo [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
-</p>
+
 
 [DEMO_LINK](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 <hr>
 
-<h3> 🛠 Technologies Used</h3>
+### 🛠 Technologies Used
 <ul>
   <li>HTML5</li>
   <li>CSSS3<li>
@@ -18,7 +18,7 @@
   <li>JavaScript</li>
 </ul>
 
-<h3>🚀 Key Features</h3>
+### 🚀 Key Features
 <hr>
 
 <p>Layout is adaptive and responsive as well as cross-browser compatible. It works correctly on all screen sizes (mobile, tablet and desktop versions). Is is implemented using the mobile-first approach.</p>
@@ -35,19 +35,18 @@
 <ol>
 
 
-<h3>💻 How to Get Started</h3>
+### 💻 How to Get Started
 <hr>
 To run this project locally, follow these steps:
 
-<ol>
-<li> Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f) </li>
+Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
 
 <li> Clone the repository:
 
 [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/) </li>
 
 <li> Build for production: </li>
-</ol>
+
 
 <p>npm run build<p>
 📂 Project Structure
@@ -58,33 +57,35 @@ To run this project locally, follow these steps:
 │   └── assets/           # Images, icons, and videos
 └── package.json          # Dependencies and scripts
 
-
-
-
-<h3>🚀 Key Features Responsive</h3>
+### 🚀 Key Features Responsive
 <ol>
 <li> Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions. </li>
 <li> Interactive Hero Section: Smooth transitions and engaging visual storytelling. </li>
-3. Virtual Tour: Integrated 360° views of museum halls for an immersive experience.
-4. Custom Video Player: A bespoke UI for the video gallery, including custom play/pause, volume controls, and progress bars.
-5. Booking System: A functional modal window with dynamic price calculation based on ticket types and quantity.
-6. Form Validation: Built-in client-side validation for the contact and booking forms.
+<li> Virtual Tour: Integrated 360° views of museum halls for an immersive experience. </li>
+<li> Custom Video Player: A bespoke UI for the video gallery, including custom play/pause, volume controls, and progress bars. </li>
+<li> Booking System: A functional modal window with dynamic price calculation based on ticket types and quantity. </li>
+<li> Form Validation: Built-in client-side validation for the contact and booking forms. </li>
 </ol>
-🛠 Technologies Used:
-1. Technology Purpose HTML5 Semantic structure and layout.SCSSModular styling following the BEM methodology.
-2. JavaScript (ES6+)Logic for sliders, video player, and dynamic calculations.GitVersion control with a feature-branching workflow.
-
-<h4>💻 How to Get Started</h4>
 <hr>
-To set up the project locally, follow these steps:
-1. Clone the repository: git clone [Tsyrulnyk_Museum_Landing](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
-2. Navigate to the project directory: cd Tsyrulnyk_Museum_Landing
-3. Install dependencies: npm install
-4. Run the development server: npm start
-The project will be available at: [localhost:3000](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
+#### 🛠 Technologies Used:
+<ol>
+<li> Technology Purpose HTML5 Semantic structure and layout.SCSSModular styling following the BEM methodology.</li>
+<li> JavaScript (ES6+)Logic for sliders, video player, and dynamic calculations.GitVersion control with a feature-branching workflow. </li>
+</ol>
+###💻 How to Get Started
+<hr>
+<p>To set up the project locally, follow these steps:</p>
+<ol>
+<li> Clone the repository: git clone [Tsyrulnyk_Museum_Landing](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/) </li>
+<li> Navigate to the project directory: cd Tsyrulnyk_Museum_Landing </li>
+<li> Install dependencies: npm install</li>
+<li> Run the development server: npm start </li>
+
+The project will be available at:
+[localhost:3000](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
  for production:Bashnpm run build
 
-
+</ol>
 Tsyrulnyk Museum Landing
 using JavaScript, HTML&CSS, Git&Terminal, DOM, Events, Promises
 An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.
@@ -174,21 +175,26 @@ ideas to life and take the company to the next level!
 
 🛠 Skills
 Here is the breakdown of the essential skills for a Front-End Developer in 2026:
-1. Hard Skills (Technical Competencies)
--- Deep JavaScript & TypeScript Fluency: While JavaScript (ES6+) remains the foundation, TypeScript is considered mandatory for professional projects to ensure type safety and scalable code.
--- Advanced Framework Proficiency (Meta-Frameworks): Mastery of React and its meta-frameworks like Next.js or Remix is crucial, as meta-frameworks are the new default for professional web applications.
--- Performance Engineering: Understanding Core Web Vitals, image/font optimization, lazy loading, and reducing bundle sizes to meet high-performance expectations.
--- Modern CSS & Styling Systems: Advanced CSS (Flexbox, Grid) combined with CSS-in-JS, Tailwind CSS, or design system management.
--- AI-Augmented Development Literacy: Ability to use AI coding assistants (GitHub Copilot, Cursor) to generate, refactor, and debug code, while knowing how to audit and optimize AI-generated output.
+<h5> Hard Skills (Technical Competencies) </h5>
+<ul>
+<li> Deep JavaScript & TypeScript Fluency: While JavaScript (ES6+) remains the foundation, TypeScript is considered mandatory for professional projects to ensure type safety and scalable code.</li>
+<li> Advanced Framework Proficiency (Meta-Frameworks): Mastery of React and its meta-frameworks like Next.js or Remix is crucial, as meta-frameworks are the new default for professional web applications.</li>
+<li> Performance Engineering: Understanding Core Web Vitals, image/font optimization, lazy loading, and reducing bundle sizes to meet high-performance expectations.</li>
+<li> Modern CSS & Styling Systems: Advanced CSS (Flexbox, Grid) combined with CSS-in-JS, Tailwind CSS, or design system management.</li>
+<li> AI-Augmented Development Literacy: Ability to use AI coding assistants (GitHub Copilot, Cursor) to generate, refactor, and debug code, while knowing how to audit and optimize AI-generated output.</li>
 Web Accessibility (a11y) & Security: Ensuring compliance with mandatory accessibility standards (e.g., European Accessibility Act) and implementing security measures (CSP, sanitizing input).
--- Browser Rendering Fundamentals: Deep knowledge of how browsers turn code into pixels (reflow, repaint, compositing) to fix performance bottlenecks.
--- Testing Strategy: Writing automated tests using Jest, Vitest, or Testing Library.
-Backend-for-Frontend (BFF) Knowledge: Understanding edge functions, Server Components, and APIs to fetch data efficiently.
-Medium
-2. Soft Skills (Professional Competencies)
--- Proactive Problem-Solving & Technical Thinking: Moving beyond "making it look good" to solving architectural problems.
--- Asynchronous Communication: Efficient communication within remote/global teams using tools like Slack, Jira, and documentation, ensuring clarity without constant meetings.
--- Adaptability & Continuous Learning: The ability to learn new tools quickly, as AI and new frameworks change the development landscape fast.
--- Product Thinking (UI/UX Focus): Understanding that the interface is part of a larger product experience and collaborating with designers to create intuitive, accessible interfaces.
-Constructive Feedback & Mentorship: Providing effective code reviews and supporting junior developers.
+<li> Browser Rendering Fundamentals: Deep knowledge of how browsers turn code into pixels (reflow, repaint, compositing) to fix performance bottlenecks.</li>
+<li> Testing Strategy: Writing automated tests using Jest, Vitest, or Testing Library.
+Backend-for-Frontend (BFF) Knowledge: Understanding edge functions, Server Components, and APIs to fetch data efficiently.</li>
+</ul>
+<h4>Medium</h4>
+<h5> Soft Skills (Professional Competencies)</h5>
+<hr>
+<ul>
+<li> Proactive Problem-Solving & Technical Thinking: Moving beyond "making it look good" to solving architectural problems.</li>
+<li> Asynchronous Communication: Efficient communication within remote/global teams using tools like Slack, Jira, and documentation, ensuring clarity without constant meetings.</li>
+<li> Adaptability & Continuous Learning: The ability to learn new tools quickly, as AI and new frameworks change the development landscape fast.</li>
+<li> Product Thinking (UI/UX Focus): Understanding that the interface is part of a larger product experience and collaborating with designers to create intuitive, accessible interfaces.</li>
+<li>Constructive Feedback & Mentorship: Providing effective code reviews and supporting junior developers.</li>
 -- Time Management & Meeting Deadlines: Delivering quality code within compressed timelines, often amplified by AI-driven speed.
+</ul>
