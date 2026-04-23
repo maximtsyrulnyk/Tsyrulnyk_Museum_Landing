@@ -150,8 +150,8 @@ experience to help the company grow and drive my
 personal career growth. Let’s work together to bring our
 ideas to life and take the company to the next level!
 🔗 Links
-![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJIOzMacWg3-X1RO_jUi3A-S2X_59FhNrZw&s)
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJIOzMacWg3-X1RO_jUi3A-S2X_59FhNrZw&s)(https://github.com/maximtsyrulnyk)
+![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
 
 
 🛠 Skills
