@@ -67,7 +67,8 @@ Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/
 <li> Form Validation: Built-in client-side validation for the contact and booking forms. </li>
 </ol>
 <hr>
-#### 🛠 Technologies Used:
+
+### 🛠 Technologies Used
 <ol>
 <li> Technology Purpose HTML5 Semantic structure and layout.SCSSModular styling following the BEM methodology.</li>
 <li> JavaScript (ES6+)Logic for sliders, video player, and dynamic calculations.GitVersion control with a feature-branching workflow. </li>
