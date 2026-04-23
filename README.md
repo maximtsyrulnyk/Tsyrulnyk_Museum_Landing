@@ -143,6 +143,7 @@ Navigate to the project directory: cd Tsyrulnyk_Museum_Landing
 Install dependencies: npm install
 Run the development server: npm start
 The project will be available at: localhost:3000.
+
 Hi, I'm Tsyrulnyk Maksym! 👋
 
 🚀 About Me
@@ -163,21 +164,21 @@ ideas to life and take the company to the next level!
 
 🛠 Skills
 Here is the breakdown of the essential skills for a Front-End Developer in 2026:
-Hard Skills (Technical Competencies)
-Deep JavaScript & TypeScript Fluency: While JavaScript (ES6+) remains the foundation, TypeScript is considered mandatory for professional projects to ensure type safety and scalable code.
-Advanced Framework Proficiency (Meta-Frameworks): Mastery of React and its meta-frameworks like Next.js or Remix is crucial, as meta-frameworks are the new default for professional web applications.
-Performance Engineering: Understanding Core Web Vitals, image/font optimization, lazy loading, and reducing bundle sizes to meet high-performance expectations.
-Modern CSS & Styling Systems: Advanced CSS (Flexbox, Grid) combined with CSS-in-JS, Tailwind CSS, or design system management.
-AI-Augmented Development Literacy: Ability to use AI coding assistants (GitHub Copilot, Cursor) to generate, refactor, and debug code, while knowing how to audit and optimize AI-generated output.
+1. Hard Skills (Technical Competencies)
+-- Deep JavaScript & TypeScript Fluency: While JavaScript (ES6+) remains the foundation, TypeScript is considered mandatory for professional projects to ensure type safety and scalable code.
+-- Advanced Framework Proficiency (Meta-Frameworks): Mastery of React and its meta-frameworks like Next.js or Remix is crucial, as meta-frameworks are the new default for professional web applications.
+-- Performance Engineering: Understanding Core Web Vitals, image/font optimization, lazy loading, and reducing bundle sizes to meet high-performance expectations.
+-- Modern CSS & Styling Systems: Advanced CSS (Flexbox, Grid) combined with CSS-in-JS, Tailwind CSS, or design system management.
+-- AI-Augmented Development Literacy: Ability to use AI coding assistants (GitHub Copilot, Cursor) to generate, refactor, and debug code, while knowing how to audit and optimize AI-generated output.
 Web Accessibility (a11y) & Security: Ensuring compliance with mandatory accessibility standards (e.g., European Accessibility Act) and implementing security measures (CSP, sanitizing input).
-Browser Rendering Fundamentals: Deep knowledge of how browsers turn code into pixels (reflow, repaint, compositing) to fix performance bottlenecks.
-Testing Strategy: Writing automated tests using Jest, Vitest, or Testing Library.
+-- Browser Rendering Fundamentals: Deep knowledge of how browsers turn code into pixels (reflow, repaint, compositing) to fix performance bottlenecks.
+-- Testing Strategy: Writing automated tests using Jest, Vitest, or Testing Library.
 Backend-for-Frontend (BFF) Knowledge: Understanding edge functions, Server Components, and APIs to fetch data efficiently.
 Medium
-Soft Skills (Professional Competencies)
-Proactive Problem-Solving & Technical Thinking: Moving beyond "making it look good" to solving architectural problems.
-Asynchronous Communication: Efficient communication within remote/global teams using tools like Slack, Jira, and documentation, ensuring clarity without constant meetings.
-Adaptability & Continuous Learning: The ability to learn new tools quickly, as AI and new frameworks change the development landscape fast.
-Product Thinking (UI/UX Focus): Understanding that the interface is part of a larger product experience and collaborating with designers to create intuitive, accessible interfaces.
+2. Soft Skills (Professional Competencies)
+-- Proactive Problem-Solving & Technical Thinking: Moving beyond "making it look good" to solving architectural problems.
+-- Asynchronous Communication: Efficient communication within remote/global teams using tools like Slack, Jira, and documentation, ensuring clarity without constant meetings.
+-- Adaptability & Continuous Learning: The ability to learn new tools quickly, as AI and new frameworks change the development landscape fast.
+-- Product Thinking (UI/UX Focus): Understanding that the interface is part of a larger product experience and collaborating with designers to create intuitive, accessible interfaces.
 Constructive Feedback & Mentorship: Providing effective code reviews and supporting junior developers.
-Time Management & Meeting Deadlines: Delivering quality code within compressed timelines, often amplified by AI-driven speed.
+-- Time Management & Meeting Deadlines: Delivering quality code within compressed timelines, often amplified by AI-driven speed.
