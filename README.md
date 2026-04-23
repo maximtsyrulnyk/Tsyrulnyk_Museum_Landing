@@ -2,13 +2,14 @@
 <hr>
 
 <p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
-
+<p>
 🔗 Quick LinksLive Demo [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+</p>
 
 [DEMO_LINK](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 <hr>
 
-🛠 Technologies Used
+<h3> 🛠 Technologies Used</h3>
 <ul>
   <li>HTML5</li>
   <li>CSSS3<li>
@@ -45,10 +46,10 @@ To run this project locally, follow these steps:
 
 [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/) </li>
 
-3. Build for production:
+<li> Build for production: </li>
 </ol>
 
-npm run build
+<p>npm run build<p>
 📂 Project Structure
 ├── src/
 │   ├── index.html        # Main HTML file
@@ -60,19 +61,21 @@ npm run build
 
 
 
-🚀 Key FeaturesResponsive
-1. Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions.
-2. Interactive Hero Section: Smooth transitions and engaging visual storytelling.
+<h3>🚀 Key Features Responsive</h3>
+<ol>
+<li> Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions. </li>
+<li> Interactive Hero Section: Smooth transitions and engaging visual storytelling. </li>
 3. Virtual Tour: Integrated 360° views of museum halls for an immersive experience.
 4. Custom Video Player: A bespoke UI for the video gallery, including custom play/pause, volume controls, and progress bars.
 5. Booking System: A functional modal window with dynamic price calculation based on ticket types and quantity.
 6. Form Validation: Built-in client-side validation for the contact and booking forms.
-
+</ol>
 🛠 Technologies Used:
 1. Technology Purpose HTML5 Semantic structure and layout.SCSSModular styling following the BEM methodology.
 2. JavaScript (ES6+)Logic for sliders, video player, and dynamic calculations.GitVersion control with a feature-branching workflow.
 
-💻 How to Get Started
+<h4>💻 How to Get Started</h4>
+<hr>
 To set up the project locally, follow these steps:
 1. Clone the repository: git clone [Tsyrulnyk_Museum_Landing](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 2. Navigate to the project directory: cd Tsyrulnyk_Museum_Landing
