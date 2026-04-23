@@ -77,7 +77,6 @@ How to write a Good readme
 Used By
 This project is used by the following companies:
 Company 1
-Company 2
 
 Tech Stack
 Client: React, Redux, TailwindCSS
@@ -103,7 +102,7 @@ Appendix
 Any additional information goes here
 
 Authors
-@maximtsyrulnyk
+[@maximtsyrulnyk](https://github.com/maximtsyrulnyk)
 
 Badges
 Add badges from somewhere like: shields.io
@@ -127,15 +126,8 @@ Demo
 Insert gif or link to demo
 https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/
 Screenshots
-![App Screenshot](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
-App Screenshot
-App Screenshot
-App Screenshot
-App Screenshot
-App Screenshot
-App Screenshot
-App Screenshot
-App Screenshot
+![App Screenshot](https://drive.google.com/drive/folders/1zSA8x-BkAdmiH6uru4hAGlzdRwoTRLVk?usp=sharing)
+
 Deployment
 To set up the project locally, follow these steps:
 Clone the repository: git clone Tsyrulnyk_Museum_Landing
