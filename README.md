@@ -170,10 +170,10 @@ an IT company where I can apply my knowledge and
 experience to help the company grow and drive my
 personal career growth. Let’s work together to bring our
 ideas to life and take the company to the next level! </p>
-🔗 Links
-![GitHub](https://github.com/maximtsyrulnyk)
-![linkedin](https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
 
+🔗 Links
+[@maximtsyrulnyk](https://github.com/maximtsyrulnyk)
+[linkedin](https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
 
 <h3>🛠 Skills</h3>
 <p>Here is the breakdown of the essential skills for a Front-End Developer in 2026:</p>
