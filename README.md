@@ -51,18 +51,6 @@ Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/
 
 
 <p>npm run build<p>
-<dir path ="src">
- <file name = "index.html"/>
-<dir name ="scss" convention = "BEM">
-<file name = "_base.scss"/>
-</dir>
-<dir name = "js"> <!-- Logic modules -->
-</dir>
-<dir name ="assets">
-<file type = "images|icons|videos"/>
-</dir>
-</dir>
-<file name = "package.json" /> <!-- Dependencies -->
 
 ### 🛠 Technologies Used
 <ol>
