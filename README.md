@@ -3,10 +3,10 @@
 
 <p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
 
-🔗 Quick LinksLive Demo [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+ [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
 
 
-[DEMO_LINK](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+[🔗 Quick LinksLive Demo](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 <hr>
 
 ### 🛠 Technologies Used
@@ -27,13 +27,15 @@
 
 <ol>
 <li> Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions. </li>
-<li> Interactive Hero Section: Smooth transitions and engaging visuals. </li>
-<li> Virtual Tour: Integrated 360° views of museum halls. </li>
-<li> Video Player: Custom-built UI for the video gallery with play/pause and volume controls. </li>
-<li> Booking System: Functional modal window for ticket selection and price calculation.</li>
-<li> Form Validation: Built-in validation for user contact information. </li>
-<ol>
+<li> Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions. </li>
+<li> Interactive Hero Section: Smooth transitions and engaging visual storytelling. </li>
+<li> Virtual Tour: Integrated 360° views of museum halls for an immersive experience. </li>
+<li> Custom Video Player: A bespoke UI for the video gallery, including custom play/pause, volume controls, and progress bars. </li>
+<li> Booking System: A functional modal window with dynamic price calculation based on ticket types and quantity. </li>
+<li> Form Validation: Built-in client-side validation for the contact and booking forms. </li>
+</ol>
 
+<hr>
 
 ### 💻 How to Get Started
 <hr>
@@ -56,17 +58,6 @@ Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/
 │   ├── js/               # JavaScript logic modules
 │   └── assets/           # Images, icons, and videos
 └── package.json          # Dependencies and scripts
-
-### 🚀 Key Features Responsive
-<ol>
-<li> Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions. </li>
-<li> Interactive Hero Section: Smooth transitions and engaging visual storytelling. </li>
-<li> Virtual Tour: Integrated 360° views of museum halls for an immersive experience. </li>
-<li> Custom Video Player: A bespoke UI for the video gallery, including custom play/pause, volume controls, and progress bars. </li>
-<li> Booking System: A functional modal window with dynamic price calculation based on ticket types and quantity. </li>
-<li> Form Validation: Built-in client-side validation for the contact and booking forms. </li>
-</ol>
-<hr>
 
 ### 🛠 Technologies Used
 <ol>
