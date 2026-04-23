@@ -159,8 +159,8 @@ The project will be available at: localhost:3000.
 
 Hi, I'm Tsyrulnyk Maksym! 👋
 
-🚀 About Me
-I am FullStack a developer with a passion for becoming a
+<h3>🚀 About Me</h3>
+<p>I am FullStack a developer with a passion for becoming a
 Frontend  developer, and I am currently mastering
 Node.js. With extensive technical skills in JavaScript,
 React, and GIT, as well as soft skills developed from
@@ -169,14 +169,15 @@ working on my own coding projects, I am excited to join
 an IT company where I can apply my knowledge and
 experience to help the company grow and drive my
 personal career growth. Let’s work together to bring our
-ideas to life and take the company to the next level!
+ideas to life and take the company to the next level! </p>
 🔗 Links
 ![GitHub](https://github.com/maximtsyrulnyk)
 ![linkedin](https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
 
 
-🛠 Skills
-Here is the breakdown of the essential skills for a Front-End Developer in 2026:
+<h3>🛠 Skills</h3>
+<p>Here is the breakdown of the essential skills for a Front-End Developer in 2026:</p>
+<hr>
 <h5> Hard Skills (Technical Competencies) </h5>
 <ul>
 <li> Deep JavaScript & TypeScript Fluency: While JavaScript (ES6+) remains the foundation, TypeScript is considered mandatory for professional projects to ensure type safety and scalable code.</li>
@@ -189,9 +190,10 @@ Web Accessibility (a11y) & Security: Ensuring compliance with mandatory accessib
 <li> Testing Strategy: Writing automated tests using Jest, Vitest, or Testing Library.
 Backend-for-Frontend (BFF) Knowledge: Understanding edge functions, Server Components, and APIs to fetch data efficiently.</li>
 </ul>
-<h4>Medium</h4>
-<h5> Soft Skills (Professional Competencies)</h5>
+
 <hr>
+<h5> Soft Skills (Professional Competencies)</h5>
+
 <ul>
 <li> Proactive Problem-Solving & Technical Thinking: Moving beyond "making it look good" to solving architectural problems.</li>
 <li> Asynchronous Communication: Efficient communication within remote/global teams using tools like Slack, Jira, and documentation, ensuring clarity without constant meetings.</li>
