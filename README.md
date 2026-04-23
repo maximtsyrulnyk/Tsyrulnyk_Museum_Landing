@@ -145,8 +145,8 @@ See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
 
-Screenshots
-![App Screenshot](https://drive.google.com/drive/folders/1zSA8x-BkAdmiH6uru4hAGlzdRwoTRLVk?usp=sharing)
+
+![Screenshots](https://drive.google.com/drive/folders/1zSA8x-BkAdmiH6uru4hAGlzdRwoTRLVk?usp=sharing)
 
 Deployment
 To set up the project locally, follow these steps:
@@ -170,8 +170,8 @@ experience to help the company grow and drive my
 personal career growth. Let’s work together to bring our
 ideas to life and take the company to the next level!
 🔗 Links
-![GitHub](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhJIOzMacWg3-X1RO_jUi3A-S2X_59FhNrZw&s)(https://github.com/maximtsyrulnyk)
-![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
+![GitHub](https://github.com/maximtsyrulnyk)
+![linkedin](https://www.linkedin.com/in/maksym-tsyrulnyk-994892201/)
 
 
 🛠 Skills
