@@ -1,32 +1,52 @@
-🔗 Links
-View Project
+<h1>🏛️ My Museum Landing Page</h1>
+<hr>
+
+<p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
+
+🔗 Quick LinksLive Demo [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+
+[DEMO_LINK](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+<hr>
+
 🛠 Technologies Used
+<ul>
+  <li>HTML5</li>
+  <li>CSSS3<li>
+  <li>Sass (SCSS)</li>
+  <li>BEM methodology</li>
+  <li>JavaScript</li>
+</ul>
 
-1. [HTML](https://www.w3.org/TR/2011/WD-html5-20110405/)
-2. [SCSS](https://sass-lang.com/documentation/) Semantic layout and modular styling using.
-3. [BEM](https://getbem.com/) methodology.
-4. [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) (ES6+): Custom sliders, video control, and form validation.
-5. [Git](https://git-scm.com/docs): Version control with feature-branching workflow.
+<h3>🚀 Key Features</h3>
+<hr>
 
-🚀 Key Features
+<p>Layout is adaptive and responsive as well as cross-browser compatible. It works correctly on all screen sizes (mobile, tablet and desktop versions). Is is implemented using the mobile-first approach.</p>
 
-1. Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions.
-2. Interactive Hero Section: Smooth transitions and engaging visuals.
-3. Virtual Tour: Integrated 360° views of museum halls.
-4. Video Player: Custom-built UI for the video gallery with play/pause and volume controls.
-5. Booking System: Functional modal window for ticket selection and price calculation.
-6. Form Validation: Built-in validation for user contact information.
+<p>The code is valid HTML5 and CSS3. In order to decrease user load and avoid code duplication, styles are implemented using Sass (SCSS) including advanced features like mixins, extends, conditional operators etc. BEM methodology is used for naming classes. This naming convention makes the code more readable and understandable, helps to avoid naming conflicts and makes the code easier to maintain and reuse.</p>
 
-💻 How to Get Started
+<ol>
+<li> Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions. </li>
+<li> Interactive Hero Section: Smooth transitions and engaging visuals. </li>
+<li> Virtual Tour: Integrated 360° views of museum halls. </li>
+<li> Video Player: Custom-built UI for the video gallery with play/pause and volume controls. </li>
+<li> Booking System: Functional modal window for ticket selection and price calculation.</li>
+<li> Form Validation: Built-in validation for user contact information. </li>
+<ol>
+
+
+<h3>💻 How to Get Started</h3>
+<hr>
 To run this project locally, follow these steps:
 
-1. Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
+<ol>
+<li> Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f) </li>
 
 2. Clone the repository:
 
 [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
 
 3. Build for production:
+</ol>
 
 npm run build
 📂 Project Structure
@@ -38,10 +58,7 @@ npm run build
 └── package.json          # Dependencies and scripts
 
 
-🏛️ Louvre Museum Landing Page
-An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.
 
-🔗 Quick LinksLive Demo [Figma Design Prototype](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
 
 🚀 Key FeaturesResponsive
 1. Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions.
@@ -122,9 +139,7 @@ Contributions are always welcome!
 See `contributing.md` for ways to get started.
 Please adhere to this project's `code of conduct`.
 
-Demo
-Insert gif or link to demo
-https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/
+
 Screenshots
 ![App Screenshot](https://drive.google.com/drive/folders/1zSA8x-BkAdmiH6uru4hAGlzdRwoTRLVk?usp=sharing)
 
