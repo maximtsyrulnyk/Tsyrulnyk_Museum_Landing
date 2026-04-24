@@ -83,5 +83,5 @@ Backend-for-Frontend (BFF) Knowledge: Understanding edge functions, Server Compo
 <li> Adaptability & Continuous Learning: The ability to learn new tools quickly, as AI and new frameworks change the development landscape fast.</li>
 <li> Product Thinking (UI/UX Focus): Understanding that the interface is part of a larger product experience and collaborating with designers to create intuitive, accessible interfaces.</li>
 <li>Constructive Feedback & Mentorship: Providing effective code reviews and supporting junior developers.</li>
--- Time Management & Meeting Deadlines: Delivering quality code within compressed timelines, often amplified by AI-driven speed.
+<li>Time Management & Meeting Deadlines: Delivering quality code within compressed timelines, often amplified by AI-driven speed.</li>
 </ul>
