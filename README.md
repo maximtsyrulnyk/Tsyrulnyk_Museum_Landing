@@ -41,9 +41,7 @@
 <hr>
 <p>To set up the project locally, follow these steps:</p>
 <ol>
-Clone the repository:
-git clone:
-[GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
+<li>clone the repository git clone [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)</li>
 <li> Navigate to the project directory: cd Tsyrulnyk_Museum_Landing </li>
 <li> Install dependencies: npm install</li>
 <li> Run the development server: npm start </li>
