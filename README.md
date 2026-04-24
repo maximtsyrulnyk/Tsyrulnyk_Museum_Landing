@@ -12,7 +12,7 @@
 ### 🛠 Technologies Used
 <ul>
   <li>HTML5</li>
-  <li>CSSS3<li>
+  <li>CSSS3</li>
   <li>Sass (SCSS)</li>
   <li>BEM methodology</li>
   <li>JavaScript</li>
@@ -39,121 +39,21 @@
 
 ### 💻 How to Get Started
 <hr>
-To run this project locally, follow these steps:
-
-Open Your Design in [Figma](https://www.figma.com/design/cRBCqE06cDrY3s4jX7h3iY/%D0%9D%D0%90%D0%9C%D0%A3--Edit-?node-id=0-1&p=f)
-
-<li> Clone the repository:
-
-[GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/) </li>
-
-<li> Build for production: </li>
-
-
-<p>npm run build<p>
-
-### 🛠 Technologies Used
-<ol>
-<li> Technology Purpose HTML5 Semantic structure and layout.SCSSModular styling following the BEM methodology.</li>
-<li> JavaScript (ES6+)Logic for sliders, video player, and dynamic calculations.GitVersion control with a feature-branching workflow. </li>
-</ol>
-###💻 How to Get Started
-<hr>
 <p>To set up the project locally, follow these steps:</p>
 <ol>
-<li> Clone the repository:</li>
-git clone [GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
+Clone the repository:
+git clone:
+[GitHub](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
 <li> Navigate to the project directory: cd Tsyrulnyk_Museum_Landing </li>
 <li> Install dependencies: npm install</li>
 <li> Run the development server: npm start </li>
 
 The project will be available at:
 [localhost:3000](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/).
- for production:Bashnpm run build
+ for production:Bash
+ <p>npm run build</p>
 
 </ol>
-Tsyrulnyk Museum Landing
-using JavaScript, HTML&CSS, Git&Terminal, DOM, Events, Promises
-An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.An adaptive and interactive landing page for the Louvre Museum, developed as part of a professional Frontend course. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.
-
-Acknowledgements
-Awesome Readme Templates
-Awesome README
-How to write a Good readme
-
-Used By
-This project is used by the following companies:
-Company 1
-
-Tech Stack
-Client: React, Redux, TailwindCSS
-Server: Node, Express
-
-API Reference
-Get all items
-```http
-  GET /api/items
-```
-Parameter	Type	Description
-`api_key`	`string`	Required. Your API key
-Get item
-```http
-  GET /api/items/${id}
-```
-Parameter	Type	Description
-`id`	`string`	Required. Id of item to fetch
-add(num1, num2)
-Takes two numbers and returns the sum.
-
-Appendix
-Any additional information goes here
-
-Authors
-[@maximtsyrulnyk](https://github.com/maximtsyrulnyk)
-
-Badges
-Add badges from somewhere like: shields.io
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
-![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg)
-![AGPL License](https://img.shields.io/badge/license-AGPL-blue.svg)
-Color Reference
-Color	Hex
-About Us section background-color	#fcfaef
-Categories Button Background Color	#f98921
-Contact Us	![#00b48a](https://dummyimage.com/10/00b48a/white?text=+) #00b48a
-Container	![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #00d1a0
-Header	![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #00d1a0
-Icons	![#00d1a0](https://dummyimage.com/10/00d1a0/white?text=+)) #00d1a0
-Contributing
-Contributions are always welcome!
-See `contributing.md` for ways to get started.
-Please adhere to this project's `code of conduct`.
-
-
-
-![Screenshots](https://drive.google.com/drive/folders/1zSA8x-BkAdmiH6uru4hAGlzdRwoTRLVk?usp=sharing)
-
-Deployment
-To set up the project locally, follow these steps:
-Clone the repository: git clone Tsyrulnyk_Museum_Landing
-Navigate to the project directory: cd Tsyrulnyk_Museum_Landing
-Install dependencies: npm install
-Run the development server: npm start
-The project will be available at: localhost:3000.
-
-Hi, I'm Tsyrulnyk Maksym! 👋
-
-<h3>🚀 About Me</h3>
-<p>I am FullStack a developer with a passion for becoming a
-Frontend  developer, and I am currently mastering
-Node.js. With extensive technical skills in JavaScript,
-React, and GIT, as well as soft skills developed from
-contributing to team projects, attending IT school, and
-working on my own coding projects, I am excited to join
-an IT company where I can apply my knowledge and
-experience to help the company grow and drive my
-personal career growth. Let’s work together to bring our
-ideas to life and take the company to the next level! </p>
 
 🔗 Links
 [@maximtsyrulnyk](https://github.com/maximtsyrulnyk)
