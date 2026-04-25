@@ -1,4 +1,4 @@
-# 🏛️ My Museum Landing Page
+# 🏛️ My Landing Page
 <hr>
 
 <p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
@@ -40,7 +40,7 @@
 <ol>
 clone the repository git clone
 
-🔗[GitHub](git clone https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
+🔗git clone [GitHub](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 <li> Navigate to the project directory: `cd Tsyrulnyk_Museum_Landing` </li>
 <li> Install dependencies: `npm install`</li>
 <li> Run the development server: `npm start` </li>
