@@ -1,7 +1,7 @@
 # 🏛️ My Landing Page
 <hr>
 
-<p>Landing page for the Louvre Museum. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
+<p>Landing page for the Nothing. This project showcases high-fidelity styling, complex UI components, and a custom-built media interface.</p>
 
  [Figma Design Prototype](https://www.figma.com/design/DtkQmQ797hk0nI4KfMi2Uq/BOSE-New-Version?node-id=6817-212)
 
