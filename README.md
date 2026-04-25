@@ -26,10 +26,9 @@
 <p>The code is valid HTML5 and CSS3. In order to decrease user load and avoid code duplication, styles are implemented using Sass (SCSS) including advanced features like mixins, extends, conditional operators etc. BEM methodology is used for naming classes. This naming convention makes the code more readable and understandable, helps to avoid naming conflicts and makes the code easier to maintain and reuse.</p>
 
 <ol>
-<li> Responsive Design: Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions. </li>
-<li> Design: Fully optimized for seamless viewing across Mobile, Tablet, and Desktop resolutions. </li>
-<li> Interactive Hero Section: Smooth transitions and engaging visual storytelling. </li>
-<li> Form Validation: Built-in client-side validation for the contact and booking forms. </li>
+<li> <b>Responsive Design:</b> Fully optimized for seamless viewing across mobile, tablet, and desktop resolutions. </li>
+<li> <b>Interactive Hero Section:</b> Smooth transitions and engaging visual storytelling. </li>
+<li> <b>Form Validation:</b> Built-in client-side validation for the contact and booking forms. </li>
 </ol>
 
 <hr>
@@ -45,7 +44,7 @@ clone the repository git clone
 <li> Install dependencies: `npm install`</li>
 <li> Run the development server: `npm start` </li>
 
-The project will be available at: `localhost:8080`
+The project will be available at: [localhost:8080](https://maximtsyrulnyk.github.io/Tsyrulnyk_Museum_Landing/)
  for production build: `npm run build`
 </ol>
 
