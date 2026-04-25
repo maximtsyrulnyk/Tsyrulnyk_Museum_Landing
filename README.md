@@ -18,8 +18,9 @@
   <li>JavaScript</li>
 </ul>
 
-### 🚀 Key Features
 <hr>
+
+### 🚀 Key Features
 
 <p>Layout is adaptive and responsive as well as cross-browser compatible. It works correctly on all screen sizes (mobile, tablet and desktop versions). Is is implemented using the mobile-first approach.</p>
 
@@ -34,12 +35,12 @@
 <hr>
 
 ### 💻 How to Get Started
-<hr>
+
 <p>To set up the project locally, follow these steps:</p>
 <ol>
-clone the repository git clone
+<li>clone the repository git clone</li>
 
-🔗git clone [GitHub](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
+🔗[GitHub](https://github.com/maximtsyrulnyk/Tsyrulnyk_Museum_Landing.git)
 <li> Navigate to the project directory: `cd Tsyrulnyk_Museum_Landing` </li>
 <li> Install dependencies: `npm install`</li>
 <li> Run the development server: `npm start` </li>
